@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -m 751 mv_dir
+mkdir -m 751 mv_dir
